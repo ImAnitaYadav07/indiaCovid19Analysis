@@ -1,3 +1,4 @@
+<img src="vaccine.png">
 # InterCareer Intership Task 2: Power BI Dashboard Creation - COVID-19 Cases Analysis
 
 The COVID-19 Daily Cases dataset provides information on
@@ -25,6 +26,8 @@ testing.
 - Offer insights into COVID-19 trends, effects of public health measures, and vaccination
 outcomes.
 
+<img src="vaccine.png">
+
 ## Insights
 
 - 'Maharashtra' has noticeably more Deaths 134201, Confirmed Cases 63,63,442 and recovery rate 61,59,676.
@@ -43,7 +46,7 @@ outcomes.
 - 'July' month highest Total samples, Positive and negative samples after this we can we overall downtrend in all.
 - In Confirm ,Recovery and death cases, we notive the repidly upword trend between 'March' to 'May' month then after July we can see significant downtrends in all cases.
 
-<img src="Blue Modern Technology LinkedIn Banner.png">
+<img src="CMap.png"><img src="datat.png">
 
   
 
