@@ -1,4 +1,5 @@
 <img src="covidbanner.png">
+
 # InterCareer Intership Task 2: Power BI Dashboard Creation - COVID-19 Cases Analysis
 
 The COVID-19 Daily Cases dataset provides information on
