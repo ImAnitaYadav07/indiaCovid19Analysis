@@ -43,6 +43,8 @@ outcomes.
 - 'July' month highest Total samples, Positive and negative samples after this we can we overall downtrend in all.
 - In Confirm ,Recovery and death cases, we notive the repidly upword trend between 'March' to 'May' month then after July we can see significant downtrends in all cases.
 
+<img src="Blue Modern Technology LinkedIn Banner.png">
+
   
 
 
