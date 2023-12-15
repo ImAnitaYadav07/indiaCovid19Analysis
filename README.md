@@ -48,6 +48,7 @@ outcomes.
 - In Confirm ,Recovery and death cases, we notive the repidly upword trend between 'March' to 'May' month then after July we can see significant downtrends in all cases.
 
 <img src="CMap.png"><img src="datat.png">
+[https://app.powerbi.com/groups/me/reports/0d4bbc2e-d78f-4246-8f77-452ff255aaaa/ReportSectionb832d74ba8e86325254c?experience=power-bi]
 
   
 
